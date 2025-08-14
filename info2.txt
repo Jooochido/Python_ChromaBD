@@ -1,0 +1,41 @@
+Todos los cursos de andercode:
+APIREST (PHP y MySQL) Creación, consumo con POSTMAN y despliegue de Producción en Heroku
+APIs con Laravel De cero a Experto en Endpoints Reales
+Aprende Laravel con un Blog Real y ChatGPT como Aliado
+Aprender a subir archivos a un servidor con Dropzone.js
+Crea APIs REST con Spring Boot y MySQL Guía Práctica
+Crea tu primera App Móvil con Flutter y Dart
+Crea tu propio Bot de Telegram con PHP y automatiza tareas
+Crea tu Propio Chat en Tiempo Real con Laravel y Node.js
+Crea tu propio Cotizador Online con PHP, MySQL, JS y ChatGPT
+Crea un Sistema de Mesa de Ayuda con Laravel
+Crea un Sistema de Compra y Venta con PHP, JS y SQL SERVER
+Crea un Sistema de Mesa de Ayuda con PHP, MySQL y JS (MVC)
+Crea un Sistema de Reservas con Laravel, PayPal y WhatsApp
+Crea una Mesa de Partes Virtual con PHP, MySQL y JS
+Creación de API REST con Laravel y MySQL
+Creación de API REST con Node Js y SQL Server
+Creación de API REST con Python y MySQL
+Creación de APIs REST con Flask, SQL Server y Swagger
+CRUD con PHP, MySQL y JS en el Modelo MVC
+Crea tu Propio eCommerce con Laravel Paso a Paso + ChatGPT
+Curso Básico de SQL Server
+Curso Completo de Flutter_CRUD con Spring Boot y MySQL
+Curso Laravel, CRUD y Despliegue de Aplicaciones Web
+Curso para tu propio StackOverflow con PHP, MySQL y JS
+Desarrollo un Sistema de Compra y Venta con Laravel + ChatGPT
+Desarrollo de Chatbot en WhatsApp Business con NodeJS
+Desarrollo de Chatbot en WhatsApp Business con PHP
+Desarrollo de Chatbot en WhatsApp Business con Python
+Desarrollo Web Avanzado_Login, Registro y Acceso con Google
+Domina la Inteligencia Artificial_Aplicaciones Prácticas
+Envío Masivo de Correos Electrónicos con PHP, MySQL y JS
+Filtro ECommerce Pokemon, PHP, MySQL y JS
+Generación de Certificados y Diplomas con PHP, MySQL y JS
+Integrar pasarela de pagos PayPal con PHP, MySQL y JS (MVC)
+Laravel ORM_Migración a MySQL, PostgreSQL, MSSQL y SQLite
+PHP y MySQL Template HTML a WebAPP
+PHP y MySQL Web Service SOAP WDSL
+Primer WebAPP React y TypeScript
+Python y Flask Construye tu Primera WebAPP
+Registro y Login con Redes Sociales PHP, MySQL y Firebase

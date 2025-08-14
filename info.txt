@@ -1,0 +1,2 @@
+Laravel es un framework PHP para construir aplicaciones web de manera rápida y elegante.
+Utiliza el patrón MVC y cuenta con un sistema de rutas, migraciones, y motor de plantillas Blade.

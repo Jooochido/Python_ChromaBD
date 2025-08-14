@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat con IA - Ollama</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Helvetica Neue', sans-serif;
+            background: #ffffff;
+            margin:0;
+            padding: 0;
+        }
+
+        .chat-container{
+            max-width: 1200px;
+            margin: 50px auto;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            height: 80vh;
+            overflow: hidden;
+        }
+
+        .chat-header{
+            padding: 20px;
+            background: #4CAF50;
+            color: white;
+            text-align: center;
+            font-size: 1.2em;
+        }
+
+        .chat-message{
+            padding: 20px;
+            flex: 1;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .message{
+            margin-bottom: 15px;
+            padding: 10px 15px;
+            border-radius: 20px;
+            white-space: pre-line;
+            max-width: 80%;
+            word-wrap: break-word;
+        }
+
+        .message.user{
+            background-color: #d1e7dd;
+            align-self: flex-end;
+            text-align: right;
+            color: #0f5132;
+            border-bottom-right-radius: 0;
+        }
+
+        .message.ai{
+            background-color: #e6e6e6;
+            align-self: flex-start;
+            text-align: left;
+            color: #393b3a;
+            border-bottom-right-radius: 0;
+        }
+
+        .chat-input{
+            display: flex;
+            padding: 15px;
+            border-top: 1px solid #ccc;
+        }
+
+        .chat-input input[type="text"]{
+            flex: 1;
+            padding: 10px;
+            border-radius: 20px;
+            border: 1px solid #ccc;
+            outline: none;
+        }
+
+        .chat-input button {
+            margin-left: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 20px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        .chat-input button:hover{
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <!-- <div class="chat-container">
+        <div class="chat-header">
+            Chat Con IA (Ollama + Flask)
+        </div>
+
+        <div class="chat-message" id="chat-message">
+            {% for sender,message in conversation %}
+            <div class="message {% if sender == 'Tú' %}user{% else %}ai{% endif %}">
+                <strong>{{ sender }} :</strong> {{ message | safe}}
+            </div>
+            {% endfor %}
+        </div>
+
+        <form method="POST" class="chat-input">
+            <input type="text" name="user_input" placeholder="Escribe tu pregunta" required>
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+
+    <script>
+        const chatMessage = document.getElementById('chat-message');
+        chatMessage.scrollTop=chatMessage.scrollHeight;
+    </script> -->
+
+    <h2>Chat Con IA (Ollama + Flask)</h2>
+    <form method="POST" class="chat-input">
+        <input type="text" name="user_input" placeholder="Escribe tu pregunta" required>
+        <button type="submit">Enviar</button>
+    </form>
+
+    <textarea rows="20" cols="100" readonly>
+        {% for sender, message in conversation %}
+        {{ sender }} : {{ message }}
+        {% endfor %}
+    </textarea>
+</body>
+</html>

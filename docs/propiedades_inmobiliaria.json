@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "titulo": "Casa de 2 pisos en San Isidro",
+    "descripcion": "Beatae odio ex quos nihil labore. Aliquam maiores fugiat eum tenetur.",
+    "precio": 262225.71,
+    "moneda": "USD",
+    "metros_cuadrados": 212,
+    "habitaciones": 5,
+    "banos": 3,
+    "tipo": "Venta",
+    "distrito": "Barranco",
+    "direccion": "Pasaje de Javiera Figuerola 92 Apt. 44  Teruel, 37275",
+    "contacto": {
+      "nombre": "Hilario Romero-Mendoza",
+      "telefono": "+34 723 81 84 00",
+      "email": "anguitajonatan@clemente.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 2,
+    "titulo": "Departamento de 1 pisos en Barranco",
+    "descripcion": "Praesentium odio eius enim quod architecto. Vitae sunt dolore quia sapiente repudiandae.",
+    "precio": 103863.32,
+    "moneda": "USD",
+    "metros_cuadrados": 138,
+    "habitaciones": 2,
+    "banos": 3,
+    "tipo": "Venta",
+    "distrito": "Barranco",
+    "direccion": "Plaza de Reyes Ramos 422 Apt. 53  Sevilla, 48666",
+    "contacto": {
+      "nombre": "Íñigo Morante",
+      "telefono": "+34 671 613 657",
+      "email": "rodrigoruano@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 3,
+    "titulo": "Dúplex de 3 pisos en Surco",
+    "descripcion": "Tenetur exercitationem recusandae quibusdam.",
+    "precio": 256056.47,
+    "moneda": "USD",
+    "metros_cuadrados": 180,
+    "habitaciones": 5,
+    "banos": 3,
+    "tipo": "Alquiler",
+    "distrito": "San Isidro",
+    "direccion": "Ronda Fermín Arana 84 Alicante, 72259",
+    "contacto": {
+      "nombre": "Aarón Ferrera Alvarez",
+      "telefono": "+34 629 83 55 35",
+      "email": "ibanezedu@sales.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 4,
+    "titulo": "Casa de 3 pisos en Miraflores",
+    "descripcion": "Quidem esse facere magnam.\nId nobis tenetur laborum eveniet. Incidunt illum a. Ipsam fugit tempore corrupti.",
+    "precio": 160677.04,
+    "moneda": "USD",
+    "metros_cuadrados": 276,
+    "habitaciones": 4,
+    "banos": 3,
+    "tipo": "Alquiler",
+    "distrito": "Barranco",
+    "direccion": "Camino Beatriz Jiménez 39 Piso 0  Málaga, 84024",
+    "contacto": {
+      "nombre": "Estela Vall Gimenez",
+      "telefono": "+34824118718",
+      "email": "calmazan@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 5,
+    "titulo": "Dúplex de 3 pisos en La Molina",
+    "descripcion": "Explicabo quo magnam alias. Quibusdam perferendis ex praesentium minima adipisci.",
+    "precio": 282956.44,
+    "moneda": "USD",
+    "metros_cuadrados": 136,
+    "habitaciones": 6,
+    "banos": 4,
+    "tipo": "Alquiler",
+    "distrito": "San Isidro",
+    "direccion": "Pasadizo Charo Caro 634 Asturias, 26867",
+    "contacto": {
+      "nombre": "Florinda Aller",
+      "telefono": "+34 715671310",
+      "email": "velascovictoria@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 6,
+    "titulo": "Casa de 2 pisos en Miraflores",
+    "descripcion": "Possimus iusto debitis nulla asperiores. Eveniet perspiciatis quam minus.",
+    "precio": 417823.32,
+    "moneda": "USD",
+    "metros_cuadrados": 100,
+    "habitaciones": 5,
+    "banos": 1,
+    "tipo": "Alquiler",
+    "distrito": "Jesús María",
+    "direccion": "Paseo Jose Miguel Vazquez 3 Piso 1  Palencia, 43475",
+    "contacto": {
+      "nombre": "Patricio Iniesta Roman",
+      "telefono": "+34730 00 35 31",
+      "email": "maria-del-carmen61@rueda.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 7,
+    "titulo": "Departamento de 1 pisos en Jesús María",
+    "descripcion": "Quos non eius maxime at. Quas iste ea minima eaque accusantium itaque. Dicta aliquam voluptatum quia corrupti.",
+    "precio": 175431.37,
+    "moneda": "USD",
+    "metros_cuadrados": 146,
+    "habitaciones": 1,
+    "banos": 4,
+    "tipo": "Alquiler",
+    "distrito": "Surco",
+    "direccion": "Rambla Lina Bejarano 59 Puerta 4  Teruel, 12026",
+    "contacto": {
+      "nombre": "Lino Cervera Iglesias",
+      "telefono": "+34 724 705 485",
+      "email": "gimenezhaydee@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 8,
+    "titulo": "Dúplex de 1 pisos en Surco",
+    "descripcion": "Modi culpa vel repudiandae quas fugiat. Facilis distinctio consequuntur hic asperiores magni perferendis.",
+    "precio": 450935.84,
+    "moneda": "USD",
+    "metros_cuadrados": 81,
+    "habitaciones": 4,
+    "banos": 2,
+    "tipo": "Venta",
+    "distrito": "Miraflores",
+    "direccion": "Cañada de Carmen Valverde 55 Puerta 2  Lugo, 66895",
+    "contacto": {
+      "nombre": "Borja del Calvo",
+      "telefono": "+34942528575",
+      "email": "espinosamaria@fonseca-moliner.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 9,
+    "titulo": "Departamento de 2 pisos en Barranco",
+    "descripcion": "Iure sapiente dolore optio. Dolorem eius incidunt reiciendis iste nulla. Consequatur ducimus est.",
+    "precio": 254255.77,
+    "moneda": "USD",
+    "metros_cuadrados": 101,
+    "habitaciones": 3,
+    "banos": 2,
+    "tipo": "Venta",
+    "distrito": "Miraflores",
+    "direccion": "Rambla de Elena Barón 579 La Rioja, 92365",
+    "contacto": {
+      "nombre": "Bruno Navas Comas",
+      "telefono": "+34877 76 85 60",
+      "email": "anacleto35@gmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 10,
+    "titulo": "Casa de 3 pisos en San Isidro",
+    "descripcion": "Magnam dignissimos labore corrupti voluptatibus voluptatem quo. Blanditiis dignissimos eos numquam.",
+    "precio": 445754.55,
+    "moneda": "USD",
+    "metros_cuadrados": 106,
+    "habitaciones": 4,
+    "banos": 1,
+    "tipo": "Alquiler",
+    "distrito": "Miraflores",
+    "direccion": "Vial Amado Santiago 748 Cáceres, 17622",
+    "contacto": {
+      "nombre": "Natalia Rosa María Cerdá Tomas",
+      "telefono": "+34713 810 292",
+      "email": "leticia00@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 11,
+    "titulo": "Departamento de 2 pisos en Surco",
+    "descripcion": "Fuga ipsum labore deleniti doloremque vitae rerum suscipit. Quae laborum iste doloribus.",
+    "precio": 204483.38,
+    "moneda": "USD",
+    "metros_cuadrados": 132,
+    "habitaciones": 5,
+    "banos": 3,
+    "tipo": "Alquiler",
+    "distrito": "San Isidro",
+    "direccion": "Ronda de Gerónimo Salazar 11 Ourense, 94479",
+    "contacto": {
+      "nombre": "Isaías Naranjo Arcos",
+      "telefono": "+34743 674 852",
+      "email": "maria-fernandacarro@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 12,
+    "titulo": "Dúplex de 2 pisos en Surco",
+    "descripcion": "Nostrum inventore ducimus laboriosam eos. Harum ullam ratione explicabo earum voluptatum.",
+    "precio": 160813.85,
+    "moneda": "USD",
+    "metros_cuadrados": 190,
+    "habitaciones": 2,
+    "banos": 3,
+    "tipo": "Venta",
+    "distrito": "Jesús María",
+    "direccion": "Plaza Manuela Canales 62 Valencia, 73537",
+    "contacto": {
+      "nombre": "Odalis de Escolano",
+      "telefono": "+34727 35 83 46",
+      "email": "calixtorodriguez@marco.org"
+    },
+    "detalles": [
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 13,
+    "titulo": "Departamento de 3 pisos en Jesús María",
+    "descripcion": "Magni non quos. Voluptate deleniti dignissimos deleniti cum.",
+    "precio": 143531.27,
+    "moneda": "USD",
+    "metros_cuadrados": 156,
+    "habitaciones": 6,
+    "banos": 2,
+    "tipo": "Alquiler",
+    "distrito": "Miraflores",
+    "direccion": "Cañada Salomé Vicente 5 Baleares, 31867",
+    "contacto": {
+      "nombre": "Nidia Laguna Posada",
+      "telefono": "+34922 896 630",
+      "email": "isaiasporras@albero.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 14,
+    "titulo": "Casa de 1 pisos en Surco",
+    "descripcion": "Sunt nesciunt necessitatibus tempora ratione commodi. In commodi repudiandae. Optio minus corporis voluptatibus.",
+    "precio": 118743.94,
+    "moneda": "USD",
+    "metros_cuadrados": 85,
+    "habitaciones": 6,
+    "banos": 1,
+    "tipo": "Venta",
+    "distrito": "Miraflores",
+    "direccion": "C. de Luis Arteaga 96 Ciudad, 65870",
+    "contacto": {
+      "nombre": "Íñigo Espiridión Iglesia Sáenz",
+      "telefono": "+34711 638 471",
+      "email": "cacevedo@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 15,
+    "titulo": "Dúplex de 1 pisos en La Molina",
+    "descripcion": "Quis numquam blanditiis ad enim sapiente impedit. Neque exercitationem itaque quibusdam nisi magni.",
+    "precio": 461467.82,
+    "moneda": "USD",
+    "metros_cuadrados": 212,
+    "habitaciones": 3,
+    "banos": 2,
+    "tipo": "Alquiler",
+    "distrito": "Barranco",
+    "direccion": "Plaza de Liliana Cañete 76 Piso 7  Las Palmas, 77686",
+    "contacto": {
+      "nombre": "Calista Benitez Camacho",
+      "telefono": "+34694 050 759",
+      "email": "arreguitrinidad@estrada.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 16,
+    "titulo": "Casa de 2 pisos en Jesús María",
+    "descripcion": "Corrupti tempora earum tempore. Temporibus rerum aut ullam exercitationem nostrum.",
+    "precio": 99358.32,
+    "moneda": "USD",
+    "metros_cuadrados": 184,
+    "habitaciones": 4,
+    "banos": 4,
+    "tipo": "Venta",
+    "distrito": "San Isidro",
+    "direccion": "Pasaje de Guadalupe Real 252 Puerta 0  Huesca, 50794",
+    "contacto": {
+      "nombre": "Virginia Batalla Jordá",
+      "telefono": "+34 727 64 87 04",
+      "email": "icuadrado@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 17,
+    "titulo": "Casa de 3 pisos en San Isidro",
+    "descripcion": "Eligendi dolorem veniam temporibus ab harum soluta. Itaque atque hic ad voluptatibus explicabo incidunt.",
+    "precio": 185846.67,
+    "moneda": "USD",
+    "metros_cuadrados": 69,
+    "habitaciones": 1,
+    "banos": 4,
+    "tipo": "Alquiler",
+    "distrito": "La Molina",
+    "direccion": "Avenida Joaquina Alemany 90 Piso 5  Las Palmas, 75372",
+    "contacto": {
+      "nombre": "Malena Mercader-Mendizábal",
+      "telefono": "+34714 45 93 42",
+      "email": "lucia98@tapia.net"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 18,
+    "titulo": "Departamento de 3 pisos en Jesús María",
+    "descripcion": "Dignissimos illum iusto explicabo quaerat neque modi.",
+    "precio": 243343.44,
+    "moneda": "USD",
+    "metros_cuadrados": 284,
+    "habitaciones": 4,
+    "banos": 4,
+    "tipo": "Alquiler",
+    "distrito": "Miraflores",
+    "direccion": "Via de Apolonia Gárate 344 Baleares, 85633",
+    "contacto": {
+      "nombre": "Macario Valderrama Requena",
+      "telefono": "+34 663611365",
+      "email": "campsisa@huertas.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 19,
+    "titulo": "Casa de 3 pisos en Surco",
+    "descripcion": "Sapiente a vel quos. Iure dolore eum iste dicta exercitationem minus. Optio provident dolorem omnis ullam officiis.",
+    "precio": 401272.62,
+    "moneda": "USD",
+    "metros_cuadrados": 176,
+    "habitaciones": 5,
+    "banos": 4,
+    "tipo": "Venta",
+    "distrito": "Barranco",
+    "direccion": "Plaza de Félix Belmonte 2 Piso 6  Girona, 88717",
+    "contacto": {
+      "nombre": "Visitación Torres Garmendia",
+      "telefono": "+34735 20 71 25",
+      "email": "capdevilaomar@lluch.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 20,
+    "titulo": "Departamento de 2 pisos en Jesús María",
+    "descripcion": "At quidem debitis. Eum temporibus veniam dolore amet. Nisi illo molestiae qui maxime.",
+    "precio": 205705.77,
+    "moneda": "USD",
+    "metros_cuadrados": 213,
+    "habitaciones": 4,
+    "banos": 2,
+    "tipo": "Venta",
+    "distrito": "Miraflores",
+    "direccion": "Alameda de Modesto Marcos 1 Córdoba, 33210",
+    "contacto": {
+      "nombre": "Amelia Rebollo",
+      "telefono": "+34 602 26 16 44",
+      "email": "rlara@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 21,
+    "titulo": "Departamento de 3 pisos en San Isidro",
+    "descripcion": "Facilis iusto maxime occaecati deleniti minus. Itaque sit quae. Rerum culpa molestias animi quos facilis.",
+    "precio": 202464.65,
+    "moneda": "USD",
+    "metros_cuadrados": 247,
+    "habitaciones": 3,
+    "banos": 3,
+    "tipo": "Alquiler",
+    "distrito": "Miraflores",
+    "direccion": "Via de Dimas Pedrosa 249 Tarragona, 34968",
+    "contacto": {
+      "nombre": "Francisco Javier Gomis Ibañez",
+      "telefono": "+34 981 987 346",
+      "email": "rieramerche@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 22,
+    "titulo": "Dúplex de 2 pisos en San Isidro",
+    "descripcion": "Modi hic odit cumque qui tempore repudiandae. Vitae corrupti suscipit occaecati dolorem.",
+    "precio": 229379.02,
+    "moneda": "USD",
+    "metros_cuadrados": 275,
+    "habitaciones": 2,
+    "banos": 1,
+    "tipo": "Venta",
+    "distrito": "San Isidro",
+    "direccion": "Avenida Hermenegildo Vall 28 Apt. 27  Toledo, 18926",
+    "contacto": {
+      "nombre": "Vasco Prada-Montes",
+      "telefono": "+34 869 844 065",
+      "email": "samuel34@manzanares-ricart.org"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 23,
+    "titulo": "Departamento de 3 pisos en Jesús María",
+    "descripcion": "Pariatur illum nostrum possimus distinctio. Doloribus nihil officiis.",
+    "precio": 312141.17,
+    "moneda": "USD",
+    "metros_cuadrados": 150,
+    "habitaciones": 2,
+    "banos": 4,
+    "tipo": "Venta",
+    "distrito": "Miraflores",
+    "direccion": "Calle Carmina Rincón 71 Lugo, 76571",
+    "contacto": {
+      "nombre": "Carlota de Costa",
+      "telefono": "+34 748431337",
+      "email": "ripollremedios@conde.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 24,
+    "titulo": "Casa de 3 pisos en Barranco",
+    "descripcion": "Beatae neque tenetur ut ea dolor atque itaque. Tempore esse doloremque temporibus maiores.",
+    "precio": 370164.12,
+    "moneda": "USD",
+    "metros_cuadrados": 258,
+    "habitaciones": 5,
+    "banos": 4,
+    "tipo": "Alquiler",
+    "distrito": "La Molina",
+    "direccion": "Glorieta de Celestino Parejo 59 Zamora, 46329",
+    "contacto": {
+      "nombre": "Cristina Reyes Mancebo",
+      "telefono": "+34 630 00 78 68",
+      "email": "fvergara@miro.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 25,
+    "titulo": "Dúplex de 1 pisos en Barranco",
+    "descripcion": "Quisquam maiores ut id impedit. Pariatur perspiciatis a quos voluptatum numquam.",
+    "precio": 196724.63,
+    "moneda": "USD",
+    "metros_cuadrados": 136,
+    "habitaciones": 4,
+    "banos": 1,
+    "tipo": "Alquiler",
+    "distrito": "Barranco",
+    "direccion": "C. Marc Paniagua 164 Navarra, 37333",
+    "contacto": {
+      "nombre": "Duilio Busquets Paz",
+      "telefono": "+34 740 68 37 25",
+      "email": "manzanaresmarcio@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 26,
+    "titulo": "Dúplex de 2 pisos en Miraflores",
+    "descripcion": "Exercitationem vitae quasi labore. Quasi accusamus pariatur error. Fugiat voluptatibus laboriosam delectus.",
+    "precio": 269394.51,
+    "moneda": "USD",
+    "metros_cuadrados": 206,
+    "habitaciones": 6,
+    "banos": 1,
+    "tipo": "Alquiler",
+    "distrito": "Surco",
+    "direccion": "Alameda Dolores Salvà 7 Piso 2  Granada, 33277",
+    "contacto": {
+      "nombre": "Adolfo Sacristán",
+      "telefono": "+34 732 787 120",
+      "email": "yago35@gmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 27,
+    "titulo": "Dúplex de 2 pisos en Surco",
+    "descripcion": "Possimus consequuntur accusamus laborum. Doloribus accusantium alias debitis.",
+    "precio": 82954.82,
+    "moneda": "USD",
+    "metros_cuadrados": 73,
+    "habitaciones": 3,
+    "banos": 3,
+    "tipo": "Venta",
+    "distrito": "Surco",
+    "direccion": "Pasadizo Cándido Montes 1 Burgos, 41207",
+    "contacto": {
+      "nombre": "Apolinar Moll Ugarte",
+      "telefono": "+34 741 59 23 51",
+      "email": "llanosmirta@hernando.net"
+    },
+    "detalles": [
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 28,
+    "titulo": "Dúplex de 3 pisos en Miraflores",
+    "descripcion": "Exercitationem explicabo occaecati soluta ex asperiores provident dolorum. Omnis dolore odit aut facilis dolorum dolor.",
+    "precio": 404234.94,
+    "moneda": "USD",
+    "metros_cuadrados": 175,
+    "habitaciones": 1,
+    "banos": 2,
+    "tipo": "Venta",
+    "distrito": "Jesús María",
+    "direccion": "Via de Óscar Pedraza 26 Lleida, 28307",
+    "contacto": {
+      "nombre": "Gema Pagès Madrid",
+      "telefono": "+34 739 80 78 99",
+      "email": "lara09@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 29,
+    "titulo": "Casa de 3 pisos en Barranco",
+    "descripcion": "Unde quisquam itaque sequi rerum. Magni maiores quidem corrupti aperiam. Quasi voluptas dolorem ex eveniet.",
+    "precio": 344104.62,
+    "moneda": "USD",
+    "metros_cuadrados": 268,
+    "habitaciones": 2,
+    "banos": 4,
+    "tipo": "Alquiler",
+    "distrito": "Miraflores",
+    "direccion": "Cañada de Trinidad Rubio 938 Apt. 90  Tarragona, 31977",
+    "contacto": {
+      "nombre": "Ana Huertas",
+      "telefono": "+34 733 999 623",
+      "email": "nereida72@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 30,
+    "titulo": "Casa de 3 pisos en Miraflores",
+    "descripcion": "Ipsa illo rem magnam atque temporibus. Quidem quibusdam consequuntur deserunt.",
+    "precio": 480986.4,
+    "moneda": "USD",
+    "metros_cuadrados": 207,
+    "habitaciones": 5,
+    "banos": 4,
+    "tipo": "Venta",
+    "distrito": "Surco",
+    "direccion": "Cañada Prudencia Conde 48 Tarragona, 51944",
+    "contacto": {
+      "nombre": "Danilo Pazos Cañete",
+      "telefono": "+34838 406 518",
+      "email": "alvaropedro@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 31,
+    "titulo": "Departamento de 2 pisos en San Isidro",
+    "descripcion": "Saepe corrupti dolorem minima. Laborum fugiat fuga. Hic perferendis odio ab. Dolor quidem nam est ut.",
+    "precio": 367632.34,
+    "moneda": "USD",
+    "metros_cuadrados": 230,
+    "habitaciones": 3,
+    "banos": 3,
+    "tipo": "Alquiler",
+    "distrito": "La Molina",
+    "direccion": "Acceso de Calixta Nuñez 89 Piso 1  Tarragona, 03758",
+    "contacto": {
+      "nombre": "Narcisa Figueras Tudela",
+      "telefono": "+34 965 57 88 04",
+      "email": "mirallesflorentino@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 32,
+    "titulo": "Dúplex de 1 pisos en Miraflores",
+    "descripcion": "Neque expedita soluta. Aperiam dignissimos sapiente laudantium illum. Aperiam laborum in reiciendis.",
+    "precio": 246216.77,
+    "moneda": "USD",
+    "metros_cuadrados": 208,
+    "habitaciones": 1,
+    "banos": 1,
+    "tipo": "Venta",
+    "distrito": "San Isidro",
+    "direccion": "Acceso Marcela Barrios 19 Apt. 59  Lugo, 21411",
+    "contacto": {
+      "nombre": "Claudia del Múgica",
+      "telefono": "+34 726006787",
+      "email": "juliaaristides@gomis-valdes.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 33,
+    "titulo": "Casa de 2 pisos en Surco",
+    "descripcion": "Est vitae quae maxime sit quaerat inventore in. Nesciunt beatae delectus. Rem quia quis facere.",
+    "precio": 395674.13,
+    "moneda": "USD",
+    "metros_cuadrados": 179,
+    "habitaciones": 4,
+    "banos": 3,
+    "tipo": "Venta",
+    "distrito": "La Molina",
+    "direccion": "Avenida de Manuelita Ojeda 50 Piso 0  Pontevedra, 99705",
+    "contacto": {
+      "nombre": "Clarisa Cuéllar Valdés",
+      "telefono": "+34 710 95 57 00",
+      "email": "sebastian98@malo.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 34,
+    "titulo": "Casa de 3 pisos en La Molina",
+    "descripcion": "Aliquid similique unde. Illum placeat consequuntur corporis ipsum alias.",
+    "precio": 450366.26,
+    "moneda": "USD",
+    "metros_cuadrados": 182,
+    "habitaciones": 2,
+    "banos": 3,
+    "tipo": "Alquiler",
+    "distrito": "Barranco",
+    "direccion": "Paseo de Marcela Cañas 81 Puerta 8  Segovia, 45230",
+    "contacto": {
+      "nombre": "Ariel Español Girona",
+      "telefono": "+34 886 36 48 44",
+      "email": "herviarafael@miro.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 35,
+    "titulo": "Dúplex de 1 pisos en Jesús María",
+    "descripcion": "Perspiciatis officiis quis fugit. Ut quibusdam cumque architecto.",
+    "precio": 169962.72,
+    "moneda": "USD",
+    "metros_cuadrados": 64,
+    "habitaciones": 2,
+    "banos": 3,
+    "tipo": "Alquiler",
+    "distrito": "Jesús María",
+    "direccion": "Alameda Juan Francisco Díaz 45 Apt. 82  Soria, 10670",
+    "contacto": {
+      "nombre": "Jose Angel Lerma Mas",
+      "telefono": "+34 741 73 38 22",
+      "email": "leopoldo92@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 36,
+    "titulo": "Dúplex de 1 pisos en Barranco",
+    "descripcion": "Cum eveniet id aperiam officiis voluptas. Ut non minima illo incidunt ducimus.",
+    "precio": 316679.97,
+    "moneda": "USD",
+    "metros_cuadrados": 114,
+    "habitaciones": 5,
+    "banos": 4,
+    "tipo": "Venta",
+    "distrito": "Surco",
+    "direccion": "Vial de Florentino Moya 618 Puerta 8  Burgos, 39195",
+    "contacto": {
+      "nombre": "Loreto Tapia Téllez",
+      "telefono": "+34689 001 099",
+      "email": "alfonso55@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 37,
+    "titulo": "Dúplex de 3 pisos en La Molina",
+    "descripcion": "Nisi perspiciatis sunt aliquid deserunt possimus repellendus. Excepturi eveniet ex. Ad aut saepe atque sunt.",
+    "precio": 274503.1,
+    "moneda": "USD",
+    "metros_cuadrados": 96,
+    "habitaciones": 6,
+    "banos": 4,
+    "tipo": "Alquiler",
+    "distrito": "Jesús María",
+    "direccion": "Acceso de Angélica Avilés 20 Piso 8  Las Palmas, 59753",
+    "contacto": {
+      "nombre": "Noa Criado-Zapata",
+      "telefono": "+34 747267702",
+      "email": "romanurbano@gmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 38,
+    "titulo": "Casa de 3 pisos en La Molina",
+    "descripcion": "Quis consequatur alias aut sed ut omnis. Soluta a consequuntur.",
+    "precio": 418954.53,
+    "moneda": "USD",
+    "metros_cuadrados": 289,
+    "habitaciones": 1,
+    "banos": 1,
+    "tipo": "Venta",
+    "distrito": "Jesús María",
+    "direccion": "Vial Cintia Guerra 29 Cantabria, 00563",
+    "contacto": {
+      "nombre": "María Cristina Mateu-Oller",
+      "telefono": "+34 725 004 139",
+      "email": "candelario66@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 39,
+    "titulo": "Dúplex de 3 pisos en Barranco",
+    "descripcion": "Facere nemo voluptates tempora. Quidem recusandae consectetur nulla repellendus voluptatum quasi dolore.",
+    "precio": 201262.43,
+    "moneda": "USD",
+    "metros_cuadrados": 92,
+    "habitaciones": 6,
+    "banos": 2,
+    "tipo": "Alquiler",
+    "distrito": "Jesús María",
+    "direccion": "Cuesta de Celia Elorza 519 Puerta 2  Castellón, 41713",
+    "contacto": {
+      "nombre": "Imelda Navarro",
+      "telefono": "+34 730 770 198",
+      "email": "julieriera@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 40,
+    "titulo": "Departamento de 2 pisos en Barranco",
+    "descripcion": "Voluptas facilis quia at exercitationem deserunt. Repudiandae atque reprehenderit in error.",
+    "precio": 323194.21,
+    "moneda": "USD",
+    "metros_cuadrados": 61,
+    "habitaciones": 1,
+    "banos": 2,
+    "tipo": "Alquiler",
+    "distrito": "Miraflores",
+    "direccion": "Cañada Régulo Vizcaíno 69 Piso 3  Las Palmas, 82596",
+    "contacto": {
+      "nombre": "Herminio Redondo Castelló",
+      "telefono": "+34 913 735 385",
+      "email": "federico38@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 41,
+    "titulo": "Departamento de 1 pisos en Surco",
+    "descripcion": "Doloribus iste odit hic alias. Molestias expedita sequi voluptate officia at nihil.",
+    "precio": 168849.61,
+    "moneda": "USD",
+    "metros_cuadrados": 72,
+    "habitaciones": 5,
+    "banos": 2,
+    "tipo": "Venta",
+    "distrito": "La Molina",
+    "direccion": "Calle de Pancho Barriga 17 Apt. 93  Guipúzcoa, 90532",
+    "contacto": {
+      "nombre": "Coral Calatayud Puig",
+      "telefono": "+34717 83 24 92",
+      "email": "elodiaaguilar@ferrera.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 42,
+    "titulo": "Casa de 3 pisos en Surco",
+    "descripcion": "Tenetur unde fuga eum similique porro culpa. Laborum necessitatibus eius minima recusandae.",
+    "precio": 448636.62,
+    "moneda": "USD",
+    "metros_cuadrados": 71,
+    "habitaciones": 4,
+    "banos": 2,
+    "tipo": "Alquiler",
+    "distrito": "La Molina",
+    "direccion": "Urbanización Amada Machado 70 Salamanca, 82158",
+    "contacto": {
+      "nombre": "Ruth Carvajal Palomar",
+      "telefono": "+34732 01 29 30",
+      "email": "tfrancisco@yahoo.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 43,
+    "titulo": "Dúplex de 3 pisos en La Molina",
+    "descripcion": "Ut doloremque eaque aut adipisci labore alias. Ratione placeat veritatis molestiae.",
+    "precio": 284279.61,
+    "moneda": "USD",
+    "metros_cuadrados": 260,
+    "habitaciones": 4,
+    "banos": 3,
+    "tipo": "Alquiler",
+    "distrito": "San Isidro",
+    "direccion": "Callejón de Alma Cuervo 4 Puerta 0  Cáceres, 26494",
+    "contacto": {
+      "nombre": "Marcelo Carrión Aznar",
+      "telefono": "+34 972018578",
+      "email": "reinaldo38@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 44,
+    "titulo": "Dúplex de 1 pisos en Jesús María",
+    "descripcion": "Voluptatibus dolor aliquid voluptatibus provident. Repellat architecto fugiat commodi autem doloribus error.",
+    "precio": 200699.06,
+    "moneda": "USD",
+    "metros_cuadrados": 286,
+    "habitaciones": 3,
+    "banos": 1,
+    "tipo": "Alquiler",
+    "distrito": "La Molina",
+    "direccion": "C. de Albano Maza 239 Guadalajara, 80404",
+    "contacto": {
+      "nombre": "José María de Bustamante",
+      "telefono": "+34743 74 62 52",
+      "email": "plalupita@gaya-canete.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 45,
+    "titulo": "Casa de 2 pisos en Jesús María",
+    "descripcion": "Perspiciatis ullam laboriosam perspiciatis minus exercitationem. Sapiente tempora voluptatum nulla quas.",
+    "precio": 440439.61,
+    "moneda": "USD",
+    "metros_cuadrados": 183,
+    "habitaciones": 1,
+    "banos": 1,
+    "tipo": "Alquiler",
+    "distrito": "Miraflores",
+    "direccion": "Vial de Cándido Arteaga 62 Albacete, 62938",
+    "contacto": {
+      "nombre": "Jacobo Uriarte",
+      "telefono": "+34 948 59 69 24",
+      "email": "socorroluz@perea-martinez.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 46,
+    "titulo": "Departamento de 2 pisos en Barranco",
+    "descripcion": "Cumque vel cupiditate ad facere natus. Minima incidunt expedita unde ab velit nostrum. Pariatur et quaerat.",
+    "precio": 255359.18,
+    "moneda": "USD",
+    "metros_cuadrados": 117,
+    "habitaciones": 1,
+    "banos": 4,
+    "tipo": "Venta",
+    "distrito": "Jesús María",
+    "direccion": "Urbanización de Roberta Valdés 73 Burgos, 01472",
+    "contacto": {
+      "nombre": "Elena Francisco",
+      "telefono": "+34923 93 17 37",
+      "email": "lespana@larrea.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 47,
+    "titulo": "Departamento de 3 pisos en Surco",
+    "descripcion": "Autem impedit impedit perferendis excepturi rem. Voluptatem necessitatibus necessitatibus odio omnis expedita ipsa.",
+    "precio": 489404.87,
+    "moneda": "USD",
+    "metros_cuadrados": 112,
+    "habitaciones": 1,
+    "banos": 2,
+    "tipo": "Venta",
+    "distrito": "Surco",
+    "direccion": "Alameda Ariadna Milla 714 Almería, 52884",
+    "contacto": {
+      "nombre": "Graciela Manuel Font",
+      "telefono": "+34712 36 91 21",
+      "email": "celestino31@guzman.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      },
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 48,
+    "titulo": "Departamento de 3 pisos en Surco",
+    "descripcion": "Error sed in quaerat vero illo. Amet ipsa voluptas autem sint.",
+    "precio": 382075.72,
+    "moneda": "USD",
+    "metros_cuadrados": 180,
+    "habitaciones": 6,
+    "banos": 1,
+    "tipo": "Venta",
+    "distrito": "Miraflores",
+    "direccion": "Camino de Teófilo Luque 46 Piso 1  Baleares, 27189",
+    "contacto": {
+      "nombre": "Fabricio de Juan",
+      "telefono": "+34720 682 145",
+      "email": "jcalvet@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Estacionamiento",
+        "descripcion": "1 cochera techada"
+      },
+      {
+        "nombre": "Cocina",
+        "descripcion": "Cocina americana con acabados en granito"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 49,
+    "titulo": "Dúplex de 1 pisos en San Isidro",
+    "descripcion": "Rerum soluta ipsa voluptate dolore. Facere dolor at eveniet cum. Quidem facere illum rem sit libero.",
+    "precio": 92368.1,
+    "moneda": "USD",
+    "metros_cuadrados": 241,
+    "habitaciones": 4,
+    "banos": 3,
+    "tipo": "Venta",
+    "distrito": "La Molina",
+    "direccion": "Vial Florentina Garcia 66 Ávila, 95244",
+    "contacto": {
+      "nombre": "Timoteo Losa Abellán",
+      "telefono": "+34 742746401",
+      "email": "miguel-angel67@herrera.es"
+    },
+    "detalles": [
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Sala de estar",
+        "descripcion": "Espaciosa sala con iluminación natural"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  },
+  {
+    "id": 50,
+    "titulo": "Departamento de 2 pisos en Barranco",
+    "descripcion": "Temporibus similique alias doloribus earum neque quaerat. Nulla sed ea accusamus labore corporis.",
+    "precio": 227685.4,
+    "moneda": "USD",
+    "metros_cuadrados": 191,
+    "habitaciones": 4,
+    "banos": 1,
+    "tipo": "Venta",
+    "distrito": "La Molina",
+    "direccion": "Cuesta de Blanca Llobet 4 Santa Cruz de Tenerife, 84023",
+    "contacto": {
+      "nombre": "Teodoro Segura Pacheco",
+      "telefono": "+34 738 128 122",
+      "email": "gjulia@hotmail.com"
+    },
+    "detalles": [
+      {
+        "nombre": "Piscina",
+        "descripcion": "Piscina privada climatizada"
+      },
+      {
+        "nombre": "Terraza",
+        "descripcion": "Terraza con vista panorámica"
+      },
+      {
+        "nombre": "Jardín",
+        "descripcion": "Jardín amplio con zona de parrilla"
+      }
+    ],
+    "publicado_en": "2025-07-23"
+  }
+]

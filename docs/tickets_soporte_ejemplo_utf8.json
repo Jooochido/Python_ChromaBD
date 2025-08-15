@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "asunto": "Problema con impresora",
+    "descripcion": "La impresora del segundo piso no responde.",
+    "estado": "Abierto",
+    "fecha_creacion": "2025-07-09T12:00:00",
+    "fecha_cierre": "2025-07-10T13:00:00",
+    "usuario": {
+      "id": 101,
+      "nombre": "Fiorella Ruiz",
+      "email": "fiorella.ruiz@empresa.com"
+    },
+    "asignado_a": {
+      "id": 201,
+      "nombre": "Renzo Medina",
+      "email": "renzo.medina@soporte.com"
+    },
+    "solucion": "Se reinstaló el controlador y volvió a funcionar."
+  },
+  {
+    "id": 2,
+    "asunto": "Cambio de contraseña",
+    "descripcion": "Olvidé mi contraseña y necesito cambiarla.",
+    "estado": "Abierto",
+    "fecha_creacion": "2025-07-14T13:00:00",
+    "fecha_cierre": "2025-07-15T04:00:00",
+    "usuario": {
+      "id": 102,
+      "nombre": "Verónica Castro",
+      "email": "veronica.castro@empresa.com"
+    },
+    "asignado_a": {
+      "id": 202,
+      "nombre": "Lucía Fernández",
+      "email": "lucia.fernandez@soporte.com"
+    },
+    "solucion": "Se envió enlace de recuperación y se confirmó el cambio."
+  },
+  {
+    "id": 3,
+    "asunto": "Error base de datos",
+    "descripcion": "Me muestra error al ingresar al sistema.",
+    "estado": "Resuelto",
+    "fecha_creacion": "2025-07-04T11:00:00",
+    "fecha_cierre": "2025-07-06T08:00:00",
+    "usuario": {
+      "id": 103,
+      "nombre": "Luis Delgado",
+      "email": "luis.delgado@empresa.com"
+    },
+    "asignado_a": {
+      "id": 203,
+      "nombre": "Renzo Medina",
+      "email": "renzo.medina@soporte.com"
+    },
+    "solucion": "Se corrigió la conexión al servidor de base de datos."
+  },
+  {
+    "id": 4,
+    "asunto": "Problemas con correo",
+    "descripcion": "No puedo enviar correos externos.",
+    "estado": "Cerrado",
+    "fecha_creacion": "2025-07-08T11:00:00",
+    "fecha_cierre": "2025-07-09T20:00:00",
+    "usuario": {
+      "id": 104,
+      "nombre": "Fiorella Ruiz",
+      "email": "fiorella.ruiz@empresa.com"
+    },
+    "asignado_a": {
+      "id": 200,
+      "nombre": "Marco Paredes",
+      "email": "marco.paredes@soporte.com"
+    },
+    "solucion": "Se liberó el firewall y DNS externo."
+  },
+  {
+    "id": 5,
+    "asunto": "Falla de red",
+    "descripcion": "No hay conexión a internet en el cuarto piso.",
+    "estado": "Resuelto",
+    "fecha_creacion": "2025-07-09T08:00:00",
+    "fecha_cierre": "2025-07-10T04:00:00",
+    "usuario": {
+      "id": 105,
+      "nombre": "Diana Campos",
+      "email": "diana.campos@empresa.com"
+    },
+    "asignado_a": {
+      "id": 201,
+      "nombre": "Lucía Fernández",
+      "email": "lucia.fernandez@soporte.com"
+    },
+    "solucion": "Se reinició el switch y volvió la conectividad."
+  },
+  {
+    "id": 6,
+    "asunto": "Falla de red",
+    "descripcion": "No hay conexión a internet en el cuarto piso.",
+    "estado": "Cerrado",
+    "fecha_creacion": "2025-07-05T14:00:00",
+    "fecha_cierre": "2025-07-05T21:00:00",
+    "usuario": {
+      "id": 106,
+      "nombre": "Verónica Castro",
+      "email": "veronica.castro@empresa.com"
+    },
+    "asignado_a": {
+      "id": 202,
+      "nombre": "Renzo Medina",
+      "email": "renzo.medina@soporte.com"
+    },
+    "solucion": "Se reinició el switch y volvió la conectividad."
+  },
+  {
+    "id": 7,
+    "asunto": "Falla de red",
+    "descripcion": "No hay conexión a internet en el cuarto piso.",
+    "estado": "Resuelto",
+    "fecha_creacion": "2025-07-06T11:00:00",
+    "fecha_cierre": "2025-07-07T12:00:00",
+    "usuario": {
+      "id": 107,
+      "nombre": "Verónica Castro",
+      "email": "veronica.castro@empresa.com"
+    },
+    "asignado_a": {
+      "id": 203,
+      "nombre": "Marco Paredes",
+      "email": "marco.paredes@soporte.com"
+    },
+    "solucion": "Se reinició el switch y volvió la conectividad."
+  },
+  {
+    "id": 8,
+    "asunto": "Problema con impresora",
+    "descripcion": "La impresora del segundo piso no responde.",
+    "estado": "En Proceso",
+    "fecha_creacion": "2025-07-03T11:00:00",
+    "fecha_cierre": "2025-07-04T07:00:00",
+    "usuario": {
+      "id": 108,
+      "nombre": "Diana Campos",
+      "email": "diana.campos@empresa.com"
+    },
+    "asignado_a": {
+      "id": 200,
+      "nombre": "Andrés Salas",
+      "email": "andres.salas@soporte.com"
+    },
+    "solucion": "Se reinstaló el controlador y volvió a funcionar."
+  },
+  {
+    "id": 9,
+    "asunto": "Falla de red",
+    "descripcion": "No hay conexión a internet en el cuarto piso.",
+    "estado": "Abierto",
+    "fecha_creacion": "2025-07-08T13:00:00",
+    "fecha_cierre": "2025-07-10T00:00:00",
+    "usuario": {
+      "id": 109,
+      "nombre": "Carlos Rojas",
+      "email": "carlos.rojas@empresa.com"
+    },
+    "asignado_a": {
+      "id": 201,
+      "nombre": "Andrés Salas",
+      "email": "andres.salas@soporte.com"
+    },
+    "solucion": "Se reinició el switch y volvió la conectividad."
+  },
+  {
+    "id": 10,
+    "asunto": "Instalación de software",
+    "descripcion": "Necesito Adobe Acrobat Pro.",
+    "estado": "Cerrado",
+    "fecha_creacion": "2025-07-07T10:00:00",
+    "fecha_cierre": "2025-07-09T00:00:00",
+    "usuario": {
+      "id": 110,
+      "nombre": "Diana Campos",
+      "email": "diana.campos@empresa.com"
+    },
+    "asignado_a": {
+      "id": 202,
+      "nombre": "Renzo Medina",
+      "email": "renzo.medina@soporte.com"
+    },
+    "solucion": "Se instaló el software y se activó la licencia."
+  },
+  {
+    "id": 11,
+    "asunto": "Solicitud de acceso",
+    "descripcion": "Requiero permisos para ingresar al sistema contable.",
+    "estado": "Cerrado",
+    "fecha_creacion": "2025-07-07T11:00:00",
+    "fecha_cierre": "2025-07-07T23:00:00",
+    "usuario": {
+      "id": 111,
+      "nombre": "Esteban Silva",
+      "email": "esteban.silva@empresa.com"
+    },
+    "asignado_a": {
+      "id": 203,
+      "nombre": "Andrés Salas",
+      "email": "andres.salas@soporte.com"
+    },
+    "solucion": "Se asignaron los permisos correctamente."
+  },
+  {
+    "id": 12,
+    "asunto": "Problema con impresora",
+    "descripcion": "La impresora del segundo piso no responde.",
+    "estado": "Cerrado",
+    "fecha_creacion": "2025-07-07T10:00:00",
+    "fecha_cierre": "2025-07-07T21:00:00",
+    "usuario": {
+      "id": 112,
+      "nombre": "Luis Delgado",
+      "email": "luis.delgado@empresa.com"
+    },
+    "asignado_a": {
+      "id": 200,
+      "nombre": "Andrés Salas",
+      "email": "andres.salas@soporte.com"
+    },
+    "solucion": "Se reinstaló el controlador y volvió a funcionar."
+  },
+  {
+    "id": 13,
+    "asunto": "Solicitud de acceso",
+    "descripcion": "Requiero permisos para ingresar al sistema contable.",
+    "estado": "En Proceso",
+    "fecha_creacion": "2025-07-13T10:00:00",
+    "fecha_cierre": "2025-07-14T09:00:00",
+    "usuario": {
+      "id": 113,
+      "nombre": "Esteban Silva",
+      "email": "esteban.silva@empresa.com"
+    },
+    "asignado_a": {
+      "id": 201,
+      "nombre": "Lucía Fernández",
+      "email": "lucia.fernandez@soporte.com"
+    },
+    "solucion": "Se asignaron los permisos correctamente."
+  },
+  {
+    "id": 14,
+    "asunto": "Micrófono no funciona",
+    "descripcion": "Me oyen entrecortado en videollamadas.",
+    "estado": "Abierto",
+    "fecha_creacion": "2025-07-01T09:00:00",
+    "fecha_cierre": "2025-07-02T05:00:00",
+    "usuario": {
+      "id": 114,
+      "nombre": "Luis Delgado",
+      "email": "luis.delgado@empresa.com"
+    },
+    "asignado_a": {
+      "id": 202,
+      "nombre": "Andrés Salas",
+      "email": "andres.salas@soporte.com"
+    },
+    "solucion": "Se actualizaron drivers de audio."
+  },
+  {
+    "id": 15,
+    "asunto": "Monitor parpadea",
+    "descripcion": "El monitor parpadea constantemente.",
+    "estado": "En Proceso",
+    "fecha_creacion": "2025-07-15T09:00:00",
+    "fecha_cierre": "2025-07-17T09:00:00",
+    "usuario": {
+      "id": 115,
+      "nombre": "Andrea Gómez",
+      "email": "andrea.gomez@empresa.com"
+    },
+    "asignado_a": {
+      "id": 203,
+      "nombre": "Renzo Medina",
+      "email": "renzo.medina@soporte.com"
+    },
+    "solucion": "Se cambió el cable HDMI y se solucionó el problema."
+  },
+  {
+    "id": 16,
+    "asunto": "Monitor parpadea",
+    "descripcion": "El monitor parpadea constantemente.",
+    "estado": "Cerrado",
+    "fecha_creacion": "2025-07-12T13:00:00",
+    "fecha_cierre": "2025-07-12T21:00:00",
+    "usuario": {
+      "id": 116,
+      "nombre": "Fiorella Ruiz",
+      "email": "fiorella.ruiz@empresa.com"
+    },
+    "asignado_a": {
+      "id": 200,
+      "nombre": "Lucía Fernández",
+      "email": "lucia.fernandez@soporte.com"
+    },
+    "solucion": "Se cambió el cable HDMI y se solucionó el problema."
+  },
+  {
+    "id": 17,
+    "asunto": "Problemas con correo",
+    "descripcion": "No puedo enviar correos externos.",
+    "estado": "En Proceso",
+    "fecha_creacion": "2025-07-03T15:00:00",
+    "fecha_cierre": "2025-07-05T04:00:00",
+    "usuario": {
+      "id": 117,
+      "nombre": "Esteban Silva",
+      "email": "esteban.silva@empresa.com"
+    },
+    "asignado_a": {
+      "id": 201,
+      "nombre": "Lucía Fernández",
+      "email": "lucia.fernandez@soporte.com"
+    },
+    "solucion": "Se liberó el firewall y DNS externo."
+  },
+  {
+    "id": 18,
+    "asunto": "Error al iniciar sesión",
+    "descripcion": "No puedo acceder al sistema con mis credenciales.",
+    "estado": "Abierto",
+    "fecha_creacion": "2025-07-01T14:00:00",
+    "fecha_cierre": "2025-07-02T08:00:00",
+    "usuario": {
+      "id": 118,
+      "nombre": "Diana Campos",
+      "email": "diana.campos@empresa.com"
+    },
+    "asignado_a": {
+      "id": 202,
+      "nombre": "Andrés Salas",
+      "email": "andres.salas@soporte.com"
+    },
+    "solucion": "Se restableció la contraseña y se verificó el acceso."
+  },
+  {
+    "id": 19,
+    "asunto": "Problemas con correo",
+    "descripcion": "No puedo enviar correos externos.",
+    "estado": "En Proceso",
+    "fecha_creacion": "2025-07-08T08:00:00",
+    "fecha_cierre": "2025-07-09T13:00:00",
+    "usuario": {
+      "id": 119,
+      "nombre": "Diana Campos",
+      "email": "diana.campos@empresa.com"
+    },
+    "asignado_a": {
+      "id": 203,
+      "nombre": "Lucía Fernández",
+      "email": "lucia.fernandez@soporte.com"
+    },
+    "solucion": "Se liberó el firewall y DNS externo."
+  },
+  {
+    "id": 20,
+    "asunto": "Problemas con correo",
+    "descripcion": "No puedo enviar correos externos.",
+    "estado": "Cerrado",
+    "fecha_creacion": "2025-07-03T12:00:00",
+    "fecha_cierre": "2025-07-05T03:00:00",
+    "usuario": {
+      "id": 120,
+      "nombre": "Pedro Martínez",
+      "email": "pedro.martinez@empresa.com"
+    },
+    "asignado_a": {
+      "id": 200,
+      "nombre": "Renzo Medina",
+      "email": "renzo.medina@soporte.com"
+    },
+    "solucion": "Se liberó el firewall y DNS externo."
+  }
+]

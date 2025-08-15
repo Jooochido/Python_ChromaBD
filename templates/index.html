@@ -95,7 +95,7 @@
     </style>
 </head>
 <body>
-    <!-- <div class="chat-container">
+    <div class="chat-container">
         <div class="chat-header">
             Chat Con IA (Ollama + Flask)
         </div>
@@ -117,18 +117,6 @@
     <script>
         const chatMessage = document.getElementById('chat-message');
         chatMessage.scrollTop=chatMessage.scrollHeight;
-    </script> -->
-
-    <h2>Chat Con IA (Ollama + Flask)</h2>
-    <form method="POST" class="chat-input">
-        <input type="text" name="user_input" placeholder="Escribe tu pregunta" required>
-        <button type="submit">Enviar</button>
-    </form>
-
-    <textarea rows="20" cols="100" readonly>
-        {% for sender, message in conversation %}
-        {{ sender }} : {{ message }}
-        {% endfor %}
-    </textarea>
+    </script>
 </body>
 </html>
